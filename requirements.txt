@@ -3,7 +3,7 @@
 #conda create --name FakeBananas python=3.5
 NumPy==1.11.3
 scikit-learn==0.18.1
-TensorFlow==0.12.1
+#TensorFlow==0.12.1
 # note: older versions of TF (like 0.10) require less modification to use than newer ones
 Pandas
 eventregistry
