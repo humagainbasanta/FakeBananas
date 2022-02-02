@@ -1,7 +1,6 @@
 # download and install anaconda
 # python 3.5 is required for this version of TensorFlow
-#conda create --name FakeBananas 
-python=3.5
+#conda create --name FakeBananas python=3.5
 NumPy==1.11.3
 scikit-learn==0.18.1
 TensorFlow==0.12.1
